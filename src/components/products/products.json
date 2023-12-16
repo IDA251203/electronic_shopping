@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "name":"Медиаконвертер TP-Link MC220L",
+        "information":"10/100/1000 Мбит/с порт RJ45 поддерживает автосогласование Auto-MDI/MDIX Поддержка стандартов IEEE 802.3ab и IEEE 802.3z FX порт с поддержкой горячей замены",
+        "price":50,
+        "phone":"+998941234567",
+        "image":"/products/img/img1.jpg"
+    },
+    {
+        "id":2,
+        "name":"Ноутбук HP 250 G9 15.6" ,
+        "information":"FHD/ Core i3-1215U/ 8GB/ 256GB SSD/ noODD/ WiFi/ BT/ DOS/ NoRUS KBD (6F1Z7EA)",
+        "price":52,
+        "phone":"+998941234567",
+        "image":"/products/img/img2.jpg"
+    },
+    {
+        "id":3,
+        "name":"Tenda 4G03 4G LTE Wi-Fi роутер",
+        "information":"Tenda 4G03 - это беспроводной шлюз, который объединяет LTE и высокоскоростной доступ к восходящей линии Ethernet, что обеспечивает пользователям гибкий и разнообразный доступ к данным.",
+        "price":45,
+        "phone":"+998941234567",
+        "image":"/products/img/img3.jpg"
+    },
+    {
+        "id":4,
+        "name":"Monoblok",
+        "information":"Monoblok AIO G24 FHD IPS Intel i3 10100 /H510 /DDR4 8GB/ SSD 256GB / HDD 500GB",
+        "price":500,
+        "phone":"+998941234567",
+        "image":"/products/img/img4.jpg"
+    },
+    {
+        "id":5,
+        "name":"Wi-Fi MikroTik cAP ac",
+        "information":"716MHz CPU, 4 Cores, 128MB RAM, 2.4GHz-802.11b/g/n, 5GHz-802.11ac RouterOS L4",
+        "price":100,
+        "phone":"+998941234567",
+        "image":"/products/img/img5.jpg"
+    },
+    {
+        "id":6,
+        "name":"Точка доступа IP-COM ProFi AC iUAP-AC-M",
+        "information":"Прочный корпус IP65 для наружных приложений Wi-Fi Технология MU-MIMO для высокой пропускной способности",
+        "price":60,
+        "phone":"+998941234567",
+        "image":"/products/img/img6.jpg"
+    },
+    {
+        "id":7,
+        "name":"Ноутбук HP 250 G9",
+        "information":"15.6 FHD/ Core i3-1215U/ 8GB/ 256GB SSD/ noODD/ WiFi/ BT/ DOS/ NoRUS KBD (6F1Z7EA)",
+        "price":190,
+        "phone":"+998941234567",
+        "image":"/products/img/img7.jpg"
+    },
+    {
+        "id":8,
+        "name":"Точка доступа Wi-Fi Ubiquiti Rocket Prism 5AC-GEN2 (RP-5AC-Gen2)",
+        "information":"Ubiquiti Rocket Prism 5AC Gen 2 (RP-5AC-Gen2) – мощная 5 ГГц базовая станция операторского класса",
+        "price":32,
+        "phone":"+998941234567",
+        "image":"/products/img/img8.jpg"
+    },
+    {
+        "id":9,
+        "name":"Антенна Ubiquiti AirMax Sector 5G-19-120 (AM-5G19-120)",
+        "information":"AirMax Sector 5G-19-120 поддерживает стандарты 802.11a, 802.11n, работает на частоте 5 ГГц.",
+        "price":31,
+        "phone":"+998941234567",
+        "image":"/products/img/img9.jpg"
+    },
+    {
+        "id":10,
+        "name":"Модуль SFP+ 10G",
+        "information":"Оптический трансивер SFP+ 10G 1310nm 20km LC DDM SMF",
+        "price":40,
+        "phone":"+998941234567",
+        "image":"/products/img/img10.jpg"
+    },
+    {
+        "id":11,
+        "name":"Умный маршрутизатор ioGiant WiFi 6 AX1800",
+        "information":"Превосходное качество Wi-Fi: Wi-Fi-маршрутизатор AX1800 увеличивает скорость в 1,5 раза, дальность действия в 1,5 раза и пропускную способность в 4 раза в вашей домашней сети.",
+        "price":40,
+        "phone":"+998941234567",
+        "image":"/products/img/img11.jpg"
+    },
+    {
+        "id":12,
+        "name":"Wi-Fi роутер XPON BT-761XR",
+        "information":"XPON с 4GE+2VOIP+WIFI 2.4G/5.8G ONU модели BT-761XR представляет собой пользовательское терминальное устройство",
+        "price":41,
+        "phone":"+998941234567",
+        "image":"/products/img/img12.jpg"
+    }
+
+]

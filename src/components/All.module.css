@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Exo 2', sans-serif;
+}
+.nav{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(0,0,0,0.6);
+    box-shadow: 0 0 10px #fff;
+}
+.nav__link{
+    text-decoration: none;
+    font-size: 25px;
+    color: #fff;
+    text-shadow: 0 0 10px #fff;
+    position: relative;
+    top:17px;
+}
+.layout{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url("../../public/background.jpeg");
+    background-size: 100% 100vh;
+    background-attachment: fixed;
+}
+.layout__cont{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(0,0,0,0.6);
+}
+.logo{
+    width: 120px;
+    height: 110px;
+    background-image:url('../../public/logo/logo.png');
+    background-size: 100% 100%;
+    position: relative;
+    top:-25px;
+}
+.mainsection{
+    width: 100%;
+    min-height: 170vh;
+}
+.mainsection h1{
+    position: relative;
+    top:270px;
+    text-shadow: 0 0 10px #fff;
+}
+.mainsection__button{
+    background-color: purple;
+    width: 35%;
+    height: 50px;
+    color: #fff;
+    border-radius: 25px;
+    font-size: 1.2em;
+    text-shadow: 0 0 9px #fff;
+    box-shadow: 0 0 10px purple;
+    border: 0.1px solid rgb(84, 6, 84);
+    position: relative;
+    top:300px;
+}
+.mainsection__img{
+    box-shadow: 0 0 10px #fff;
+}
+.mainsection__carusel{
+    width: 100%;
+    height: 400px;
+    position: relative;
+    top:700px;
+}
+.product{
+    max-width: 45%;
+    width: 100%;
+    height: 30vh;
+    box-shadow: 0 0 10px #fff;
+    border-radius: 5px;
+    border-bottom: 3px solid purple;
+    background-color: rgb(0,0,0,0.6);
+    color: #fff;
+    padding: 30px;
+    margin:20px;
+    display: flex;
+    justify-content: space-around;
+}
+.product__imgbox{
+    width: 36%;
+    height: 100%;
+    box-shadow: 0 0 10px #fff;
+}
+.buyproduct{
+    max-width: 80%;
+    width: 100%;
+    height: 30vh;
+    box-shadow: 0 0 10px #fff;
+    border-radius: 5px;
+    border-bottom: 3px solid purple;
+    background-color: rgb(0,0,0,0.6);
+    color: #fff;
+    padding: 5px;
+    margin:20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.buyproduct__img {
+    width: 40%;
+    height: 100%;
+    position: relative;
+    top:25px;
+}
+.buyproduct__infobox{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    top:25px;
+}
+.buyproduct__card{ 
+    width: 40%;
+    height: 100%;
+}
+.buyproduct__image{
+    width: 40%;
+    height: 100%;
+}
+h2,h1{
+    color: #fff;
+}
+h3{
+    color: purple;
+}
+.product__cont{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer{
+    width: 100%;
+    height: 35vh;
+    background-color: rgba(0,0,0,0.5);
+    box-shadow: 0 0 10px #fff;
+    display: flex;
+    justify-content: space-around;
+}
+.footer__box{
+    width: 28%;
+    height: 90%;
+    line-height: 30px;
+    color: #fff;
+    position: relative;
+    top:20px
+}
+.footer__box__cont{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.footer__box__cont div{
+    width: 70px;
+    height: 70px;
+    background-color: purple;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #fff;
+    position: relative;
+    top:30px;
+    cursor: pointer;
+}
+.instagram{
+    background-image: url('../../public/icons/instagram-icon-twitter-white-bird-logo-hd-png-download-instagram-icon-white-png-840_425.png-removebg-preview.png');
+    background-size: 110% 70%;
+    background-repeat: no-repeat;
+    background-position: -3px 9px;
+}
+.telegram{
+    background-image: url('../../public/icons/png-clipart-the-body-shop-cosmetics-hotel-company-logo-telegram-white-angle-company-thumbnail-removebg-preview.png');
+    background-size: 60% 60%;
+    background-repeat: no-repeat;
+    background-position: 12px 12px;
+}
+.phone{
+    background-image: url('../../public/icons/png-transparent-white-phone-icon-thumbnail-removebg-preview.png');
+    background-size: 60% 60%;
+    background-repeat: no-repeat;
+    background-position: 14px 14px;
+}
+.cart{
+    width: 100%;
+    height: 100vh;
+    min-height: 200vh;
+}
+.registration{
+    width: 42%;
+    height: 70vh;
+    border-radius: 10px;
+    background-color: rgba(256,256,256,0.5);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    line-height: 50px;
+}
+.registration h1{
+    text-shadow: 0 0 10px #000;
+}
+.shop
+{
+    width: 100%;
+    height: 230vh;
+}
